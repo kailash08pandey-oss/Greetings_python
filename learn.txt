@@ -1,0 +1,28 @@
+  what i learn 
+** COMMENTS__
+comments likhne k li 2 way h 
+1 # symbol ka use 
+2 triple ''' single cot ka istemal krke ya frr triple """ cot ka krke bhi 
+3 ctrl+/ se kisi bhi chiz ko cmmt and un cooment kr skte h 
+
+ ** ESCAPE SEQUENCE CHARACTERS ___ 
+ new line character \n
+ agr kisi bhi chij ko double coat m print krnah to \"
+   agr kisi bhi chij ko single coat m print krnah \'
+
+   **print
+   , multiple statement likhne k lie 
+   sep="  " se   in multiple statement ko kis chiz se se sprate krna h
+   end=" % \n" se hm statement kis chiz se end hogin
+
+EXAMPLE 1
+INPUT CODE = 
+print("kailash",   5      ,   88     , sep="%" ,end="009\n")
+print ("Bye bye ")
+
+OUTPUT=
+kailash%5%88009
+Bye bye 
+
+** VARIABLE & DATA TYPES
+in python we can chng the values of variable such as x,y,z
