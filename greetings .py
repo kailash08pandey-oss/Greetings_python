@@ -19,3 +19,4 @@ w = t + ", the time is " + str(x) + " minutes"
 
 k.say(w)
 k.runAndWait()
+print("thank you for using this program")
