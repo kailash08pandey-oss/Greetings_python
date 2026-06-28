@@ -15,7 +15,7 @@ else:
 
 
 
-w=t,"the time is ",x, "minutes" 
+w = t + ", the time is " + str(x) + " minutes" 
 
 k.say(w)
 k.runAndWait()
