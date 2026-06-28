@@ -11,11 +11,4 @@ print(y)
 print(z)
 x.say(datetim_e)
 x.runAndWait()
-# x = int(input( "Enter your no.."))
-# match x:
-#     case 0:
-#        print("the value is zero")
-#     case x if x <=20:
-#         print(" less than 20")
-#     case _:
-#         print("it is not zero or less than equal to  20")
+
