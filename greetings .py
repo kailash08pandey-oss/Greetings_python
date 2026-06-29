@@ -2,7 +2,7 @@ import pyttsx3
 import time
 k= pyttsx3.init()
 d="hello"
-x= float(time.strftime("%H"".""%M"))
+x= float(time.strftime("%I"".""%M"))
 # x=int(input("Time: "))
 if( x<12.00):
    t=("Good morning sir!!")
